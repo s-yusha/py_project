@@ -1,1 +1,1 @@
-# py_project
+# Initial git repo for py proj
